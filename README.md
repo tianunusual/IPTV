@@ -3,7 +3,6 @@ This is an IPv6 live broadcast source with up to 165 channels, including various
 
 <img src="https://dn.9t.ee/image/github/iptv.png"/></a>
 
-# I am: Li Mu escapes
 
 🗂 This is a poorly written warehouse project by a boring person
 
