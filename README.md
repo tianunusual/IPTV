@@ -44,4 +44,4 @@ This is an IPv6 live broadcast source with up to 165 channels, including various
 
 ### Support it
 
-> <img src="https://dn.9t.ee/image/github/alipay.png"/><img src="https://dn.9t.ee/image/github/wxpay.png"/>
+> <img src="https://dn.mc.ci/image/github/alipay.png"/><img src="https://dn.mc.ci/image/github/wxpay.png"/>
