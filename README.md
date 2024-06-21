@@ -16,32 +16,29 @@ This is an IPv6 live broadcast source with up to 165 channels, including various
 - Note: My skills are limited. If you have any problems with the projects on github, please solve them yourself!
 
 
+
 --------------------------------------------------------------------
 ### Contact Me
 - E-mail：about@mc.ci
-- QQ Number：577766600
-- Telegram：[@udian](https://t.me/uidian)
+- Telegram：[@udian]([https://t.me/uidian](https://t.me/uidian))
 - Twitter：[@doogluo](https://twitter.com/doogluo)
 - Weibo：[@李木晚晚晚晚](https://weibo.com/chinazcwl)
 - GitHub：[@李木晚晚晚晚](https://github.com/tianunusual)
 
 ### My group chat
 
-- QQ Group：[123402033](https://qm.qq.com/cgi-bin/qm/qr?k=Cx9noRs1fRVCz_BF86hR4SKeSdyLnjhh&jump_from=webapi&authKey=cybJHmy7wP0hk5OBAjgfZ55LsTcPDDvjHqVADFSoD+HiCrQdalAKHeT30kQWsFQb)
-- Telegram Group：[Udian丨资源交流群](https://t.me/udian6)
+- Telegram Group：[有点6️⃣丨资源交流群](https://t.me/udian6)
 
 
 ### belongs to us
 
 - *.9t.ee
-- *.upan.ee
-- *.ane.ee
-- *.uidian.net
+- *.mc.ci
+- *.ooonc.com
+- *.006661.xyz
+- *.005551.xyz
+- *.001231.xyz
 
 ---
 
-> [@Blog](https://blog.uidian.net) · [@Google](https://www.9t.ee) · [@网盘列表](https://drive.upan.ee) · 
-
-### Support it
-
-> <img src="https://dn.mc.ci/image/github/alipay.png"/><img src="https://dn.mc.ci/image/github/wxpay.png"/>
+> [@Blog](https://blog.mc.ci/) · @OSS列表](https://buck.mc.ci) ·  · [@网盘列表](https://drive.mc.ci) · 
