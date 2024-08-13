@@ -20,9 +20,8 @@ This is an IPv6 live broadcast source with up to 165 channels, including various
 --------------------------------------------------------------------
 ### Contact Me
 - E-mail：about@mc.ci
-- Telegram：[@udian]([https://t.me/uidian](https://t.me/uidian))
+- Telegram：[@hi_mcc](https://t.me/hi_mcc)
 - Twitter：[@doogluo](https://twitter.com/doogluo)
-- Weibo：[@李木晚晚晚晚](https://weibo.com/chinazcwl)
 - GitHub：[@李木晚晚晚晚](https://github.com/tianunusual)
 
 ### My group chat
@@ -34,11 +33,11 @@ This is an IPv6 live broadcast source with up to 165 channels, including various
 
 - *.9t.ee
 - *.mc.ci
-- *.ooonc.com
-- *.006661.xyz
-- *.005551.xyz
-- *.001231.xyz
+- *.006**1.xyz
+- *.005**1.xyz
+- *.001**1.xyz
 
 ---
 
-> [@Blog](https://blog.mc.ci/) · @OSS列表](https://buck.mc.ci) ·  · [@网盘列表](https://drive.mc.ci) · 
+> [@Blog](https://blog.mc.ci/) · [@OSS列表](https://buck.mc.ci) · 
+
