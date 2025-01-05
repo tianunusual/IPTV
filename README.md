@@ -16,12 +16,11 @@ This is an IPv6 live broadcast source with up to 165 channels, including various
 - Note: My skills are limited. If you have any problems with the projects on github, please solve them yourself!
 
 
-
 --------------------------------------------------------------------
 ### Contact Me
 - E-mail：about@xk.ee
 - Telegram：[@hi_mcc](https://t.me/hi_foxm)
-- Twitter：[@doogluo](https://twitter.com/doogluo)
+- Twitter：[@消失的狐狸菌](https://x.com/hi_foxm)
 - GitHub：[@消失的狐狸菌](https://github.com/tianunusual)
 
 ### My group chat
@@ -40,3 +39,5 @@ This is an IPv6 live broadcast source with up to 165 channels, including various
 ---
 
 > [@Blog](https://blog.xk.ee/) · [@OSS列表](https://buck.mc.ci) · 
+
+
