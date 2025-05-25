@@ -1,7 +1,7 @@
 ### introduce:
 This is an IPv6 live broadcast source with up to 165 channels, including various guard channels and local channels; perhaps it may not support IPV4 access. If you have the ability, I don't mind you strengthening its function and structure
 
-<img src="https://dn.mc.ci/image/github/iptv.png"/></a>
+<img src="https://apac.ele.cm/Github/image/IPTV.png"/></a>
 
 
 🗂 This is a poorly written warehouse project by a boring person
@@ -19,8 +19,8 @@ This is an IPv6 live broadcast source with up to 165 channels, including various
 --------------------------------------------------------------------
 ### Contact Me
 - E-mail：about@xk.ee
-- Telegram：[@hi_mcc](https://t.me/hi_foxm)
-- Twitter：[@消失的狐狸菌](https://x.com/hi_foxm)
+- Telegram：[@Jun_disappear](https://t.me/@Jun_disappear)
+- Twitter：[@消失的狐狸菌](https://x.com/Jun_disappear)
 - GitHub：[@消失的狐狸菌](https://github.com/tianunusual)
 
 ### My group chat
@@ -30,14 +30,10 @@ This is an IPv6 live broadcast source with up to 165 channels, including various
 
 ### belongs to us
 
-- *.9t.ee
-- *.mc.ci
 - *.xk.ee
-- *.005**1.xyz
-- *.001**1.xyz
-
+- *.ele.cm
+- *.ku.kg
+- *.douke.org
 ---
 
-> [@Blog](https://blog.xk.ee/) · [@OSS列表](https://buck.mc.ci) · 
-
-
+> [@Blog](https://blog.xk.ee/) · [@OIPPA列表](https://list.xk.ee) · 
