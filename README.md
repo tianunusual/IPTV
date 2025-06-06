@@ -31,8 +31,9 @@ This is an IPv6 live broadcast source with up to 165 channels, including various
 ### belongs to us
 
 - *.xk.ee
-- *.ele.cm
+- *.ku.cm
 - *.ku.kg
+- *.ele.cm
 - *.douke.org
 ---
 
