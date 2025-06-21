@@ -1,7 +1,7 @@
 ### introduce:
 This is an IPv6 live broadcast source with up to 165 channels, including various guard channels and local channels; perhaps it may not support IPV4 access. If you have the ability, I don't mind you strengthening its function and structure
 
-<img src="https://i.ku.cm/github/image/IPTV.png"/></a>
+<img src="https://i.ku.cm/github/image/iptv.png"/></a>
 
 
 🗂 This is a poorly written warehouse project by a boring person
